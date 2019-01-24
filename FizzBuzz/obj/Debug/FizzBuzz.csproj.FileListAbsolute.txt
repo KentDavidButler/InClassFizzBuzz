@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\InClassFizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\InClassFizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Administrator\source\repos\GrandCircus\InClassFizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Administrator\source\repos\GrandCircus\InClassFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\InClassFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\InClassFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Administrator\source\repos\GrandCircus\InClassFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
